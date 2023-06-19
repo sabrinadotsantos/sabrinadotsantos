@@ -4,10 +4,6 @@
 <p align="center">
 - 🌱🦋 Atualmente estudando desenvolvimento Full Stack</br>
  </p>
-<!-- <p align="center">
-  🔭 HTML5, CSS3, Javascript, React</br>
-  🔭 Java, Kotlin, MySQL
- </p> -->
 
 </br></br>
 
@@ -23,29 +19,12 @@
 <h2 align="center">
  📝 Certificações:</br></br></br>
 
-<a align="center" href="https://www.credly.com/earner/earned/badge/17f6bdb3-6fd1-44b8-a7bb-c8b04a1e9acf" target="_blank">
-<img align="center" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Watch the series" width="108" height="108" border="10"/>
-</a>
 
-<a align="center" href="https://www.credly.com/earner/earned/badge/8f526236-6f0d-4e12-9316-db977b18186f" target="_blank">
-<img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Watch the series" width="108" height="108" border="10"/>
-</a>
+  <a href="https://www.credly.com/badges/17f6bdb3-6fd1-44b8-a7bb-c8b04a1e9acf/public_url" target="blank">
+    <img width="108" height="108"  src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
+  </a>
 
+  <a href="https://www.credly.com/badges/8f526236-6f0d-4e12-9316-db977b18186f/public_url" target="blank">
+    <img width="108" height="108"  src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
+  </a>
 </h2>
-
-
-<!-- <h2 align = "center">
-  
-  💻 </br></br>
-  
-&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinadotsantos&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</h2>
-
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-sabrinadotsantos/sabrinadotsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
