@@ -21,3 +21,11 @@
 			    <img width="108" height="108"  src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"/>
   </a>
 </h2>
+
+<div align="center">  
+ 
+<a href="https://github.com/sabrinadotsantos">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabrinadotsantos&show_icons=true&count_private=true&hide_border=true&title_color=76a5af&icon_color=134f5c&text_color=45818e&bg_color=0d1117" alt="sabrinadotsantos github stats" />  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinadotsantos&layout=compact&hide_border=true&title_color=76a5af&text_color=45818e&bg_color=0d1117" />
+
+</div>
