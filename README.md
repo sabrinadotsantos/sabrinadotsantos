@@ -1,6 +1,6 @@
-<h1 align= "center">	Salut! Sou a Sabrina :) </h1>
+<h1 align= "center">	Olá! Sou a Sabrina :) </h1>
 <p align= "center">
-							- 🌱 Atualmente estudando desenvolvimento Full Stack </br></br>
+							- 🌱 Atualmente estudando Desenvolvimento Full Stack </br></br>
 </p>
 
 ##
