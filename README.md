@@ -9,7 +9,7 @@
 👩🏻‍💻 Tech stack: </br></br></br>
   <p align="center"> 
 	<p align="center">
-  	<a href="https://skillicons.dev">
+  	<a href="#">
    	 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mysql,git" />
   </a>
 		
